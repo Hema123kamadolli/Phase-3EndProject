@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Phase3End_Project.props" />
+</Project>
